@@ -1,0 +1,17 @@
+--- 
+test_string: "one"
+test_array: 
+- name: "Array One"
+  value: 1
+- name: "Array Two"
+  value: 2
+- test_nested_array:
+  - name: "Nested Array One"
+    value: 1
+  - name: "Nested Array Two"
+    value: 2
+test_today: "Today Is: [TODAY]"
+test_yesterday: "Yesterday Was: [YESTERDAY]"
+test_temp: "Temp Dir Is: [TMPDIR]"
+
+

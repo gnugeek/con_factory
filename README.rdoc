@@ -1,0 +1,9 @@
+== ConFactory
+
+== Install
+
+gem install con_factory
+
+== More Docs
+
+There will be more docs, once I write them :)
